@@ -16,8 +16,12 @@ public class HomeController {
     private Logger logger = LoggerFactory.getLogger(HomeController.class);
     @GetMapping
     public String home(){
+        logger.error("this is private API");
+        logger.warn("this is private API");
         logger.info("this is private API");
-        logger.debug("This is debug");
+        logger.debug("this is private API");
+        logger.trace("this is private API");
+
         return "This is my controller";
     }
 }
