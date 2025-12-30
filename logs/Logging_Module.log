@@ -1,0 +1,22 @@
+02:33:03.988: pm [main] INFO  c.logging.LoggingModuleApplication -- Starting LoggingModuleApplication using Java 24.0.1 with PID 1532 (C:\spring\emailAPI\Logging_Module\target\classes started by lenovo in C:\spring\emailAPI\Logging_Module)
+02:33:03.996: pm [main] DEBUG c.logging.LoggingModuleApplication -- Running with Spring Boot v4.0.1, Spring v7.0.2
+02:33:03.997: pm [main] INFO  c.logging.LoggingModuleApplication -- No active profile set, falling back to 1 default profile: "default"
+02:33:04.997: pm [main] INFO  c.logging.LoggingModuleApplication -- Started LoggingModuleApplication in 1.546 seconds (process running for 1.94)
+02:33:35.988: pm [main] INFO  c.logging.LoggingModuleApplication -- Starting LoggingModuleApplication using Java 24.0.1 with PID 20204 (C:\spring\emailAPI\Logging_Module\target\classes started by lenovo in C:\spring\emailAPI\Logging_Module)
+02:33:35.992: pm [main] DEBUG c.logging.LoggingModuleApplication -- Running with Spring Boot v4.0.1, Spring v7.0.2
+02:33:35.993: pm [main] INFO  c.logging.LoggingModuleApplication -- No active profile set, falling back to 1 default profile: "default"
+02:33:37.003: pm [main] INFO  c.logging.LoggingModuleApplication -- Started LoggingModuleApplication in 1.627 seconds (process running for 2.311)
+02:33:43.827: pm [http-nio-8080-exec-1] ERROR c.logging.Controller.HomeController -- this is private API maawiya
+02:33:43.828: pm [http-nio-8080-exec-1] WARN  c.logging.Controller.HomeController -- this is private API maawiya
+02:33:43.829: pm [http-nio-8080-exec-1] INFO  c.logging.Controller.HomeController -- this is private API maawiya
+02:33:43.829: pm [http-nio-8080-exec-1] DEBUG c.logging.Controller.HomeController -- this is private API maawiya
+02:33:43.829: pm [http-nio-8080-exec-1] TRACE c.logging.Controller.HomeController -- this is private API maawiya
+02:34:43.510: pm [main] INFO  c.logging.LoggingModuleApplication -- Starting LoggingModuleApplication using Java 24.0.1 with PID 10264 (C:\spring\emailAPI\Logging_Module\target\classes started by lenovo in C:\spring\emailAPI\Logging_Module)
+02:34:43.515: pm [main] DEBUG c.logging.LoggingModuleApplication -- Running with Spring Boot v4.0.1, Spring v7.0.2
+02:34:43.516: pm [main] INFO  c.logging.LoggingModuleApplication -- No active profile set, falling back to 1 default profile: "default"
+02:34:44.503: pm [main] INFO  c.logging.LoggingModuleApplication -- Started LoggingModuleApplication in 1.681 seconds (process running for 2.14)
+02:35:23.568: pm [http-nio-8080-exec-1] ERROR c.logging.Controller.HomeController -- this is private API maawiya
+02:35:23.568: pm [http-nio-8080-exec-1] WARN  c.logging.Controller.HomeController -- this is private API maawiya
+02:35:23.568: pm [http-nio-8080-exec-1] INFO  c.logging.Controller.HomeController -- this is private API maawiya
+02:35:23.568: pm [http-nio-8080-exec-1] DEBUG c.logging.Controller.HomeController -- this is private API maawiya
+02:35:23.568: pm [http-nio-8080-exec-1] TRACE c.logging.Controller.HomeController -- this is private API maawiya
