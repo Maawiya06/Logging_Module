@@ -9,7 +9,11 @@
     </appender>
 
 <!--    This is file appender-->
-    <appender name="File_SOUT">
+    <appender name="File_SOUT" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>
+            logs/Logging_Module.log
+        </file>
+
 
     </appender>
 <!--    <root level="debug">-->
