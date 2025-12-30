@@ -32,4 +32,9 @@
     <root level="INFO">
         <appender-ref ref="STDOUT" />
     </root>
+
+    <logger name="spring.back" level="TRACE" additivity="false">
+        <appender-ref ref="File_SOUT"/>
+
+    </logger>
 </configuration>
