@@ -8,6 +8,10 @@
         </encoder>
     </appender>
 
+<!--    This is file appender-->
+    <appender name="File_SOUT">
+
+    </appender>
 <!--    <root level="debug">-->
     <root level="INFO">
         <appender-ref ref="STDOUT" />
