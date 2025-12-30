@@ -1,0 +1,22 @@
+2025-12-30T13:27:16.610+05:30  INFO 17476 --- [Logging_Module] [main] com.logging.LoggingModuleApplication     : Starting LoggingModuleApplication using Java 24.0.1 with PID 17476 (C:\spring\emailAPI\Logging_Module\target\classes started by lenovo in C:\spring\emailAPI\Logging_Module)
+2025-12-30T13:27:16.614+05:30 DEBUG 17476 --- [Logging_Module] [main] com.logging.LoggingModuleApplication     : Running with Spring Boot v4.0.1, Spring v7.0.2
+2025-12-30T13:27:16.615+05:30  INFO 17476 --- [Logging_Module] [main] com.logging.LoggingModuleApplication     : No active profile set, falling back to 1 default profile: "default"
+2025-12-30T13:27:17.448+05:30  INFO 17476 --- [Logging_Module] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2025-12-30T13:27:17.466+05:30  INFO 17476 --- [Logging_Module] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-12-30T13:27:17.466+05:30  INFO 17476 --- [Logging_Module] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.15]
+2025-12-30T13:27:17.518+05:30  INFO 17476 --- [Logging_Module] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 842 ms
+2025-12-30T13:27:17.893+05:30  INFO 17476 --- [Logging_Module] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8080 (http) with context path '/'
+2025-12-30T13:27:17.897+05:30  INFO 17476 --- [Logging_Module] [main] com.logging.LoggingModuleApplication     : Started LoggingModuleApplication in 1.799 seconds (process running for 2.323)
+2025-12-30T13:27:37.410+05:30  INFO 17476 --- [Logging_Module] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-12-30T13:27:37.410+05:30  INFO 17476 --- [Logging_Module] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-12-30T13:27:37.410+05:30  INFO 17476 --- [Logging_Module] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-12-30T13:27:37.468+05:30 ERROR 17476 --- [Logging_Module] [http-nio-8080-exec-1] com.logging.Controller.HomeController    : this is private API ameer
+2025-12-30T13:27:37.468+05:30  WARN 17476 --- [Logging_Module] [http-nio-8080-exec-1] com.logging.Controller.HomeController    : this is private API ameer
+2025-12-30T13:27:37.468+05:30  INFO 17476 --- [Logging_Module] [http-nio-8080-exec-1] com.logging.Controller.HomeController    : this is private API ameer
+2025-12-30T13:27:37.468+05:30 DEBUG 17476 --- [Logging_Module] [http-nio-8080-exec-1] com.logging.Controller.HomeController    : this is private API ameer
+2025-12-30T13:27:37.468+05:30 TRACE 17476 --- [Logging_Module] [http-nio-8080-exec-1] com.logging.Controller.HomeController    : this is private API ameer
+2025-12-30T13:28:23.757+05:30 ERROR 17476 --- [Logging_Module] [http-nio-8080-exec-2] com.logging.Controller.HomeController    : this is private API maawiya
+2025-12-30T13:28:23.759+05:30  WARN 17476 --- [Logging_Module] [http-nio-8080-exec-2] com.logging.Controller.HomeController    : this is private API maawiya
+2025-12-30T13:28:23.759+05:30  INFO 17476 --- [Logging_Module] [http-nio-8080-exec-2] com.logging.Controller.HomeController    : this is private API maawiya
+2025-12-30T13:28:23.759+05:30 DEBUG 17476 --- [Logging_Module] [http-nio-8080-exec-2] com.logging.Controller.HomeController    : this is private API maawiya
+2025-12-30T13:28:23.759+05:30 TRACE 17476 --- [Logging_Module] [http-nio-8080-exec-2] com.logging.Controller.HomeController    : this is private API maawiya
