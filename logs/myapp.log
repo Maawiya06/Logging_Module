@@ -20,3 +20,5 @@
 2025-12-30T13:28:23.759+05:30  INFO 17476 --- [Logging_Module] [http-nio-8080-exec-2] com.logging.Controller.HomeController    : this is private API maawiya
 2025-12-30T13:28:23.759+05:30 DEBUG 17476 --- [Logging_Module] [http-nio-8080-exec-2] com.logging.Controller.HomeController    : this is private API maawiya
 2025-12-30T13:28:23.759+05:30 TRACE 17476 --- [Logging_Module] [http-nio-8080-exec-2] com.logging.Controller.HomeController    : this is private API maawiya
+2025-12-30T13:53:25.294+05:30  INFO 17476 --- [Logging_Module] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2025-12-30T13:53:25.337+05:30  INFO 17476 --- [Logging_Module] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
